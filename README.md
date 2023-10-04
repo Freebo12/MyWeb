@@ -3,7 +3,7 @@ MyPortfolio
 
 Technology Stack
 
--JavaScript   -React.Js -Node.js -TypeScript
+-JavaScript -React.Js -Node.js -TypeScript
 
 -HTML
 -Css
